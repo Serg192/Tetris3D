@@ -6,6 +6,6 @@ TODO: add build system
 
 Game screenshots:
 
-![tet1](https://github.com/Serg192/Tetris3D/assets/66135825/bf3e2e04-0f33-4f19-997f-2c7c185a81a4)
+![tet1](https://github.com/Serg192/Tetris3D/assets/66135825/0cc0720f-4c6b-4ae3-af57-7f5e4191a01f)
 
-![tet2](https://github.com/Serg192/Tetris3D/assets/66135825/1409de14-e1f1-4fb7-bc1e-1329e3e1baa3)
+![tet2](https://github.com/Serg192/Tetris3D/assets/66135825/a7894782-bb43-4d34-b1f0-ea49b3274249)
